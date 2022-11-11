@@ -2,8 +2,6 @@
 <h3>Futoshiki Solver Using Backtracking-Search</h3>
 
 Uses an input file with an initial and desired state to solve a futoshiki puzzle.<br><br>
-<h3>Output is of the form:</h3>
-
 
 <h3>Sample Input</h3>
 0 0 0 0 0 0<br>
