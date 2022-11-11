@@ -34,7 +34,7 @@ v 0 0 0 0 0<br>
 6 4 1 5 3 2 <br>
 5 2 4 6 1 3
 
-<br><br><h3>Futoshiki Example</h3>
+<br><h3>Futoshiki Example</h3>
 ![image](https://user-images.githubusercontent.com/91436116/201365407-4cc5a94e-1ab1-4a58-9dcf-2ab86c5cde83.png)<br>
 ![image](https://user-images.githubusercontent.com/91436116/201365450-a1f1e6b1-6fe4-4d7d-8f2a-c3c0a54a2a42.png)
 
