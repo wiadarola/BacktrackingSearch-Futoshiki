@@ -1,7 +1,7 @@
 # ai_project2
 <h3>Futoshiki Solver Using Backtracking-Search</h3>
 
-Uses an input file with an initial and desired state to solve a futoshiki puzzle.<br><br>
+Uses an input file with an initial and desired state to solve a futoshiki puzzle.<br>
 
 <h3>Sample Input</h3>
 0 0 0 0 0 0<br>
