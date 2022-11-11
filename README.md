@@ -1,7 +1,8 @@
 # ai_project2
 <h3>Futoshiki Solver Using Backtracking-Search</h3>
+Uses an input file with an initial and desired state to solve a futoshiki puzzle.<br><br>
 "Futoshiki is played on a square grid. The objective is to place the numbers such that each row and column contains only one of each digit. Some digits may be given at the start. Inequality constraints are initially specified between some of the squares, such that one must be higher or lower than its neighbor. These constraints must be honored in order to complete the puzzle" (Wikipedia).<br>
-Uses an input file with an initial and desired state to solve a futoshiki puzzle.<br>
+
 
 <h3>Sample Input</h3>
 0 0 0 0 0 0<br>
