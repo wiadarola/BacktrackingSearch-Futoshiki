@@ -18,7 +18,7 @@ Uses an input file with an initial and desired state to solve a futoshiki puzzle
 0 0 0 0 0<br>
 0 0 0 < 0<br>
 0 > 0 0 ><br>
-> 0 0 0 0<br>
+\> 0 0 0 0<br>
 
 v 0 0 0 0 0<br>
 0 0 0 0 0 0<br>
